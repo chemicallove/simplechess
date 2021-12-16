@@ -1,0 +1,15 @@
+F:\repos\simplechess\simplechess\simplechess\bin\Debug\net6.0\simplechess.exe
+F:\repos\simplechess\simplechess\simplechess\bin\Debug\net6.0\simplechess.deps.json
+F:\repos\simplechess\simplechess\simplechess\bin\Debug\net6.0\simplechess.runtimeconfig.json
+F:\repos\simplechess\simplechess\simplechess\bin\Debug\net6.0\simplechess.dll
+F:\repos\simplechess\simplechess\simplechess\bin\Debug\net6.0\ref\simplechess.dll
+F:\repos\simplechess\simplechess\simplechess\bin\Debug\net6.0\simplechess.pdb
+F:\repos\simplechess\simplechess\simplechess\obj\Debug\net6.0\simplechess.csproj.AssemblyReference.cache
+F:\repos\simplechess\simplechess\simplechess\obj\Debug\net6.0\simplechess.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\simplechess\simplechess\simplechess\obj\Debug\net6.0\simplechess.AssemblyInfoInputs.cache
+F:\repos\simplechess\simplechess\simplechess\obj\Debug\net6.0\simplechess.AssemblyInfo.cs
+F:\repos\simplechess\simplechess\simplechess\obj\Debug\net6.0\simplechess.csproj.CoreCompileInputs.cache
+F:\repos\simplechess\simplechess\simplechess\obj\Debug\net6.0\simplechess.dll
+F:\repos\simplechess\simplechess\simplechess\obj\Debug\net6.0\ref\simplechess.dll
+F:\repos\simplechess\simplechess\simplechess\obj\Debug\net6.0\simplechess.pdb
+F:\repos\simplechess\simplechess\simplechess\obj\Debug\net6.0\simplechess.genruntimeconfig.cache
