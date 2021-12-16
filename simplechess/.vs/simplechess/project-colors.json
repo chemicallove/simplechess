@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aefa6914-39af-4165-9a12-8df8db6822c2": {
+      "ProjectGuid": "aefa6914-39af-4165-9a12-8df8db6822c2",
+      "DisplayName": "simplechess",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
